@@ -241,7 +241,7 @@
       <notification>1</notification>
     </property>
     <property>
-      <numberDays>1.0</numberDays>
+      <numberDays/>
     </property>
     <property>
       <office/>
